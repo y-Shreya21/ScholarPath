@@ -1,0 +1,10 @@
+[
+  {
+    "doc_type": "income",
+    "rule": "Income must be less than 250000 for scholarship eligibility"
+  },
+  {
+    "doc_type": "marksheet",
+    "rule": "Document must contain valid marks and student details"
+  }
+]

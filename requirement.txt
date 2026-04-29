@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-multipart
+passlib[bcrypt]
+pytesseract
+opencv-python
+pillow
+langchain
+openai
+faiss-cpu
+sentence-transformers
+python-dotenv

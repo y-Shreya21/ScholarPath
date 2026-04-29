@@ -1,0 +1,6 @@
+{
+  "image1.png": {"is_valid": true},
+  "image2.png": {"is_valid": false},
+  "image3.png": {"is_valid": true},
+    "image4.png": {"is_valid": false}
+}
